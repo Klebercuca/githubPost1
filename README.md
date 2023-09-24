@@ -7,7 +7,7 @@
 [![FaceBook](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)](https://www.facebook.com/profile.php?id=100086721553202)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleber-batista)
 
-![Kleber Analista GitHub stats](https://github-readme-stats.vercel.app/api?username=githubPost1&show_icons=true&theme=radical)
+![Kleber Analista GitHub stats](https://github-readme-stats.vercel.app/api?username=klebercuca&show_icons=true&theme=radical)
 
 ## Linguagens
 <div style="display: inline_block"><br/>
