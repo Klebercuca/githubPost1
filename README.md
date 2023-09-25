@@ -8,10 +8,9 @@
 
 ![Kleber Analista GitHub stats](https://github-readme-stats.vercel.app/api?username=klebercuca&show_icons=true&theme=radical)
 
-### Grupo Whatsapp GitHub
+### Grupo Whatsapp 
 
 [![Grupo Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/ECJbIswWNW3GSRX8Twa0dT)
-
 
 ## Linguagens
 <div style="display: inline_block"><br/>
@@ -21,4 +20,19 @@
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</div> 
+</div><br/>
+
+Hobby Algoritmo
+
+## Curso ou assessoria em andamento
+
+- [Otimização para LinkedIn](https://chat.whatsapp.com/IJcKKA9jJZLAHGHSkxBSMT)<br/>
+- [Curso de Wappler](https://chat.whatsapp.com/EUYrPwNf0BJ27tu4jCXblD)<br/>
+- [Design profisscional](https://chat.whatsapp.com/H15Ggw0lpksEdbV7fqWtvA)<br/>
+
+![Linguagem do topo](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+
+[![Estatística das linguagens](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
